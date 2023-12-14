@@ -1,4 +1,4 @@
-# Absinth - A German Faithfulness Detection Dataset
+# Absinth - Hallucination Detection Dataset of German News Summarization
 <img src="images/absinth_logo.png" alt="image" width="300" height="auto">  <br/>
 Absinth is a human-annotated dataset for faithfulness detection in the context of German news summarization.
 The dataset has 4335 instances in total, where each instance consists of the following elements:
@@ -15,6 +15,8 @@ The dataset has 4335 instances in total, where each instance consists of the fol
    - Faithful: The information in the sentence is consistent with the news article, without contradicting or adding external information.
    - Intrinsic Hallucination: The sentence contradicts the information in the article.
    - Extrinsic Hallucination: The sentence contains information not present in the article.
+
+For more information about the creation of the dataset, please refer to our paper...
 
 ## Accessing the dataset
 
