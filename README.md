@@ -18,7 +18,7 @@ The dataset has 4335 instances in total, where each instance consists of the fol
 
 For more information about the creation of the dataset, please refer to our paper...
 
-## Accessing the dataset
+## Download Dataset
 
 - The absinth dataset without the source articles can be accessed on [Hugging Face](https://huggingface.co/datasets/mtc/absinth_german_faithfulness_detection_dataset).
 - The source articles can be downloaded from [here](https://drive.google.com/file/d/1taGM6qToFDB37RjU5BjlYtiup_CYpvXZ/view).
