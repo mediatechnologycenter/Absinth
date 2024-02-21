@@ -27,7 +27,8 @@ For more information about the creation of the dataset, please refer to our pape
 ## Reference
 
 When using the Absinth dataset, please cite:
-Paper accepted in Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)
+
+**Paper accepted in Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)**
 
 ```bibtex
 TBD
