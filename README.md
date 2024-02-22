@@ -31,7 +31,7 @@ When using the Absinth dataset, please cite:
 ```bibtex
 @inproceedings{mascarell-etal-2024-german,
     title = "German also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset",
-    author = "Mascarell, Laura  and
+    author = "Mascarell, Laura and
       Chalummattu, Ribin and
       Rios, Annette",
     booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)",
