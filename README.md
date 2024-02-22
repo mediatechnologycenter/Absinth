@@ -28,8 +28,19 @@ For more information about the creation of the dataset, please refer to our pape
 
 When using the Absinth dataset, please cite:
 
-**Paper accepted in Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)**
-
 ```bibtex
-TBD
+@inproceedings{mascarell-etal-2024-german,
+    title = "German also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset",
+    author = "Mascarell, Laura  and
+      Chalummattu, Ribin and
+      Rios, Annette",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)",
+    month = May,
+    year = "2024",
+    address = "Turin, Italy",
+    publisher = "",
+    url = "",
+    pages = "",
+    abstract = "The advent of large language models (LLMs) has lead to remarkable progress on a wide range of natural language processing tasks. Despite the advances, these large-sized models still suffer from hallucinating information in their output, which poses a major issue in automatic text summarization, as we must guarantee that the generated summary is consistent with the content of the source document. Previous research addresses the challenging task of detecting hallucinations in the output (i.e. inconsistency detection) in order to evaluate the faithfulness of the generated summaries. However, these works primarily focus on English and recent multilingual approaches lack German data. This work presents absinth, a manually annotated dataset for hallucination detection in German news summarization and explores the capabilities of novel open-source LLMs on this task in both fine-tuning and in-context learning settings. We open-source and release the absinth dataset to foster further research on hallucination detection in German.",
+}
 ```
